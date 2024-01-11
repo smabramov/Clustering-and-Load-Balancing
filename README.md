@@ -11,8 +11,9 @@ ___________________________________________________________________________
  
  
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+Конфигурационный файл haproxy, находится в папке img фаил haproxy.cfg
+`![tcp](https://github.com/smabramov/Clustering-and-Load-Balancing/blob/048610bc7e21c35738d2eb8db54f1c2d5ffb2e81/img/tcp.png)`
+`![tcp1](https://github.com/smabramov/Clustering-and-Load-Balancing/blob/048610bc7e21c35738d2eb8db54f1c2d5ffb2e81/img/tcp1.png)`
 
 
 ---
@@ -28,8 +29,8 @@ ___________________________________________________________________________
 
 
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+Конфигурационный файл haproxy, находится в папке img фаил haproxy1.cfg
 
+`![tcp2](https://github.com/smabramov/Clustering-and-Load-Balancing/blob/048610bc7e21c35738d2eb8db54f1c2d5ffb2e81/img/tcp%202.png)`
 
 ---
